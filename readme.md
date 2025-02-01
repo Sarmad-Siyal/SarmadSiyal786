@@ -23,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SarmadSiyal786&show_icons=true&locale=en&theme=dark" alt="abrar-ahmed-21bscs20" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SarmadSiyal786&theme=dark" alt="abrar-ahmed-21bscs20" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SarmadSiyal786&theme=dark" alt="sarmad-siyal-21bscs02" /></p>
